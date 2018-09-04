@@ -1,0 +1,111 @@
+
+
+/* Karla Regular */
+
+@font-face {
+    font-family: 'karlaregular';
+    src: url('karla/karla-regular-webfont.eot');
+    src: url('karla/karla-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('karla/karla-regular-webfont.woff2') format('woff2'),
+         url('karla/karla-regular-webfont.woff') format('woff'),
+         url('karla/karla-regular-webfont.ttf') format('truetype'),
+         url('karla/karla-regular-webfont.svg#karlaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	@font-face {
+	font-family: 'karlaregular';
+	src: url('karla/karla-regular-webfont.svg#karlaregular') format('svg');
+	}
+}
+
+/* Webly Sleek */
+
+
+
+@font-face {
+    font-family: 'weblysleek_uisemibold_italic';
+    src: url('weblysleek/weblysleekuisbi-webfont.eot');
+    src: url('weblysleek/weblysleekuisbi-webfont.eot?#iefix') format('embedded-opentype'),
+         url('weblysleek/weblysleekuisbi-webfont.woff2') format('woff2'),
+         url('weblysleek/weblysleekuisbi-webfont.woff') format('woff'),
+         url('weblysleek/weblysleekuisbi-webfont.ttf') format('truetype'),
+         url('weblysleek/weblysleekuisbi-webfont.svg#weblysleek_uisemibold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	@font-face {
+	font-family: 'weblysleek_uisemibold_italic';
+	src: url('weblysleek/weblysleekuisbi-webfont.svg#weblysleek_uisemibold_italic') format('svg');
+	}
+}
+
+
+
+@font-face {
+    font-family: 'weblysleek_uisemibold';
+    src: url('weblysleek/weblysleekuisb-webfont.eot');
+    src: url('weblysleek/weblysleekuisb-webfont.eot?#iefix') format('embedded-opentype'),
+         url('weblysleek/weblysleekuisb-webfont.woff2') format('woff2'),
+         url('weblysleek/weblysleekuisb-webfont.woff') format('woff'),
+         url('weblysleek/weblysleekuisb-webfont.ttf') format('truetype'),
+         url('weblysleek/weblysleekuisb-webfont.svg#weblysleek_uisemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	@font-face {
+	font-family: 'weblysleek_uisemibold';
+	src: url('weblysleek/weblysleekuisb-webfont.svg#weblysleek_uisemibold') format('svg');
+	}
+}
+
+
+@font-face {
+    font-family: 'weblysleek_uisemilight';
+    src: url('weblysleek/weblysleekuisl-webfont.eot');
+    src: url('weblysleek/weblysleekuisl-webfont.eot?#iefix') format('embedded-opentype'),
+         url('weblysleek/weblysleekuisl-webfont.woff2') format('woff2'),
+         url('weblysleek/weblysleekuisl-webfont.woff') format('woff'),
+         url('weblysleek/weblysleekuisl-webfont.ttf') format('truetype'),
+         url('weblysleek/weblysleekuisl-webfont.svg#weblysleek_uisemilight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	@font-face {
+	font-family: 'weblysleek_uisemilight';
+	src: url('weblysleek/weblysleekuisl-webfont.svg#weblysleek_uisemilight') format('svg');
+	}
+}
+
+
+@font-face {
+    font-family: 'weblysleek_uisemilight_italic';
+    src: url('weblysleek/weblysleekuisli-webfont.eot');
+    src: url('weblysleek/weblysleekuisli-webfont.eot?#iefix') format('embedded-opentype'),
+         url('weblysleek/weblysleekuisli-webfont.woff2') format('woff2'),
+         url('weblysleek/weblysleekuisli-webfont.woff') format('woff'),
+         url('weblysleek/weblysleekuisli-webfont.ttf') format('truetype'),
+         url('weblysleek/weblysleekuisli-webfont.svg#weblysleek_uisemilight_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	@font-face {
+	font-family: 'weblysleek_uisemilight_italic';
+	src: url('weblysleek/weblysleekuisli-webfont.svg#weblysleek_uisemilight_italic') format('svg');
+	}
+}
